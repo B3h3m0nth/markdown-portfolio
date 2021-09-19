@@ -1,6 +1,2 @@
----
-layout: default
----
-
-{% include 01-name.md %}
+[Mi Perfil de GitHub](https://gitub.com/B3h3m0nth)
 
